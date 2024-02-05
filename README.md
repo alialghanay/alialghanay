@@ -64,13 +64,13 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  
+
+ 🎓 &emsp; Software Eng Student from Libya.<br/><br/>
+ 🏙️ &emsp; Fornt-end Devloper @ Future Vision.<br/><br/>
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
  📧 &emsp; Reach me anytime: a.al-ghanay@uot.edu.ly<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/alialghanay/alialghanay/issues)<br/>
- 🎓 &emsp; Software Eng Student from Libya.<br/>
- 🏙️ &emsp; Fornt-end Devloper @ Future Vision.<br/>
+ 💬 &emsp; Ask me about anything [here](https://github.com/alialghanay/alialghanay/issues)<br/><br/>
 
 </p>
 
