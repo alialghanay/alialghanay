@@ -31,7 +31,8 @@
   <samp>
     <a href="https://www.google.com/search?q=alialghanay">「 Google Me 」</a>
     <br>
-    「 I am a full stack web application developer from <b>Bangladesh</b> 」
+    「 I am a full stack web application developer from <b>Tripoli -Libya ![LibyaGIF](https://github.com/alialghanay/alialghanay/assets/52647886/58f0a01f-66f7-4dd2-b90b-104026e1de5d)
+</b> 」
     <br>
     <br>
   </samp>
