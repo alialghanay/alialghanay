@@ -13,7 +13,6 @@
 ### 👨‍💻 About Me
 
 - 🎓 Software Engineer.
-- 💻 Full-stack web developer.
 - 🍝 Mom’s Spaghetti.
 - 📧 Reach me: a.al-ghanay@uot.edu.ly  
 - 💬 Ask me anything [here](https://github.com/alialghanay/alialghanay/issues)
